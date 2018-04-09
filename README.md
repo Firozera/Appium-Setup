@@ -1,2 +1,8 @@
 # Appium-Setup
-Shells
+SHELLS
+
+
+PRE-REQUISITES
+BREW
+NODE JS
+JAVA JDK
